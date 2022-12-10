@@ -11,6 +11,6 @@ for(int i=0; i<n; i++){
     cin>>x;
     a[i]=x;
 }
-cout<<valmax(a, n);
+cout<<valmax(a,n);
     return 0;
 }
